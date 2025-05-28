@@ -92,5 +92,8 @@ You can now ask the agent:
 
 Below are some examples of how the agent responds to various financial queries using the ReAct framework:
 
-### 🔎 Example 1: Stock Price Lookup
-![Agent Reply - Stock Price](images/agent_reply_1.png)
+### 🔎 Example 1: Potiental investments
+![Agent Reply - Potiental investments](PotentialInvest.png)
+
+### 🔎 Example 1: Whether do I Invest in this company or not?
+![Agent Reply - Invest or not](YN.png)
